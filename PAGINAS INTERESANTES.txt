@@ -1,0 +1,5 @@
+https://opengeo.tech/maps/                 Stefano Cudini repositorio de multiples herramientas o plugins para Leaflet
+
+https://github.com/stefanocudini/leaflet-search 		Repositorio de buscador para Leaflet.
+
+https://github.com/calvinmetcalf/leaflet-ajax/tree/gh-pages 			Repositorio Github, para el cargado de información local a Leaflet.
